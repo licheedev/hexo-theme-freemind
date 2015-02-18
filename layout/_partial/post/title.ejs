@@ -8,8 +8,8 @@
 	<% if (index) { %>
 	<!-- display as entry -->
 		<h3 class="title">
-			<a href="<%- config.root %><%- item.path %>" <% if(item.description) { %>title="<%= item.description %>"<% } %>><%= item.title %></a>
 			<span class="date"> <%= item.date.format(config.date_format) %> </span>
+			<a href="<%- config.root %><%- item.path %>" <% if(item.description) { %>title="<%= item.description %>"<% } %>><%= item.title %></a>
 		</h3>
 	<% } else { %>
 		<div class="page-header">		

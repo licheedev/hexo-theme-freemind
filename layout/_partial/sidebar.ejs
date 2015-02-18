@@ -1,5 +1,6 @@
 <div class="col-md-3">
 	<div id="sidebar">
+	<%- partial('extra/swiftype_search') %>
 	<% theme.widgets.forEach(function(widget){ %>
 			<%- partial('../_widget/' + widget) %>
 		<% }); %>
