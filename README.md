@@ -2,9 +2,10 @@ Hexo-Theme-Freemind
 ===
 
 ### fork自 https://github.com/wzpan/hexo-theme-freemind
+### 小幅度修改了下，修改了下首页文章标题栏的长度，还有“查看全文”按钮右对齐，加了百度统计、百度分享等。
+### 此repo仅作为本人博客`备份用途`，里面部分开放平台（如百度统计）代码含本人专用代码，没有做说明，所以有需要的请fork上述原repo的进行修改。
 
-### 为`自用`目的，经小幅度修改，部分开发平台代码（如百度统计）等包含本人专用代码，本人懒得另外说明，所以`请从原repo进行修改`，此repo作为`备份用途`
-本人博客： http://licheetec.com
+### 本人博客： http://licheetec.com
 
 
 Yet another [bootstrap](http://getbootstrap.com) based theme for [Hexo](http://zespia.tw/hexo/). Freemind aims at fully taking advantages of Bootstrap.
