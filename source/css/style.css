@@ -283,10 +283,11 @@ img {
 }
 
 .slogan{
-  font-size: 1.2em;
+  font-size: 1.1em;
   color: #888;  
   display:block;
   margin-bottom: 1em;
+  font-family: 'Open Sans', "Helvetica Neue", "Helvetica","Microsoft YaHei", "WenQuanYi Micro Hei",Arial, sans-serif;
 }
 
 /* =============================================================================
@@ -394,13 +395,13 @@ h4 {
 
 .page h3.title {
   position:relative;
-  padding: 2px 20px 5px 10px;
+  padding: 5px 20px 5px 10px;
   margin-left:-20px;
   margin-right:-20px;
   border-top:3px solid #ccc;
-  font-size: 1.9em;
+  font-size: 1.5em;
   font-weight: normal;
-  font-family: 'PT Sans Narrow', '雅黑', '文泉驿微米黑', '黑体', sans-serif;
+  
   background-color: #e5e5e5;
 }
 
@@ -409,7 +410,7 @@ h4 {
 }
 
 .page h3.title span.date {
-  font-size:0.7em;
+  font-size:0.8em;
   color: #777;
 }
 
